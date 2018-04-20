@@ -10,7 +10,7 @@
     <!--main-nav-start-->
     <div class="container">
         <ul class="main-nav">
-            <li><a href="githubers.jsp">Home</a></li>
+            <li><a href="/GithubersServlet">Home</a></li>
             <li><a href="#team">Les Githubers</a></li>
             <li class="small-logo"><a href="#header"><img src="Assets/img/logoNavbar.png" alt=""></a></li>
             <li><a href="inscription.jsp">S'incrire</a></li>

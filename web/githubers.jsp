@@ -45,10 +45,10 @@
 
                 <h3 class="wow fadeInDown delay-03s"><c:out value="${HuberList.getName()}" /></h3>
                 <span class="wow fadeInDown delay-03s">E-mail: <c:out value="${HuberList.getEmail()}" /></span>
-                <p class="wow fadeInDown delay-03s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+                <p class="wow fadeInDown delay-03s"><c:out value="${HuberList.getDescription()}" /></p>
             </div>
             </c:forEach>
-        </div>
+        </div><br />
     </div>
 
 </section>

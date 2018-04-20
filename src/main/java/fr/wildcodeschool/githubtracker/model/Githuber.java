@@ -5,13 +5,15 @@ public class Githuber {
     private String name;
     private String email;
     private String login;
+    private String description;
     private String avatarUrl;
 
-    public Githuber(int id, String name, String email, String login, String avatarUrl) {
+    public Githuber(int id, String name, String email, String login, String avatarUrl, String description) {
         this.id = id;
         this.name = name;
         this.email = email;
         this.login = login;
+        this.description = description;
         this.avatarUrl = avatarUrl;
     }
 
@@ -45,6 +47,13 @@ public class Githuber {
 
     public void setLogin(String login) {
         this.login = login;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+    public void setDescription(String description) {
+        this.description = description;
     }
 
     public String getAvatarUrl() {
