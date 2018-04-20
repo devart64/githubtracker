@@ -718,7 +718,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:#FBA858;
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;
@@ -745,8 +745,8 @@ border: 2px solid #fff;
 }
 
 #sendmessage {
-    color: #7cc576;
-    border:1px solid #7cc576;
+    color: #FBA858;
+    border:1px solid #FBA858;
     display:none;
     text-align:center;
     padding:15px;
@@ -786,7 +786,7 @@ border: 2px solid #fff;
 	text-align:center;
 }
 .copyright a, .credits a{
-	color:#7cc576;
+	color:#FBA858;
 	font-weight:600;
 	text-decoration: none;
 	transition:all 0.3s ease-in-out;
