@@ -18,9 +18,8 @@
             <div class="col-lg-6 col-lg-offset-3 col-sm-6 col-sm-offset-3 wow fadeInUp delay-05s">
                 <div class="form">
 
-                    <div id="sendmessage">Vous êtes bien inscrits</div>
-                    <div id="errormessage"></div>
-                    <form action="GithubersServlet" method="post" role="form" class="contactForm">
+
+                    <form action="/GithubersServlet" method="GET" role="form" class="contactForm">
                         <div class="form-group">
                             <input type="text" name="name" class="form-control input-text" id="name" placeholder="Votre Nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                             <div class="validation"></div>
@@ -30,15 +29,15 @@
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control input-text" name="subject" id="subject" placeholder="Votre pseudo" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                            <input type="text" class="form-control input-text" name="pseudo" id="pseudo" placeholder="Votre pseudo" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control input-text" name="subject" id="subject" placeholder="Url de votre photo" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                            <input type="text" class="form-control input-text" name="avatar" id="avatar" placeholder="Url de votre photo" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control input-text text-area" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Ta petite description"></textarea>
+                            <textarea class="form-control input-text text-area" name="description" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Ta petite description"></textarea>
                             <div class="validation"></div>
                         </div>
 <br />

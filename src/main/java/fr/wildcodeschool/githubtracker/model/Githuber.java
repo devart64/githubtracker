@@ -1,29 +1,21 @@
 package fr.wildcodeschool.githubtracker.model;
 
 public class Githuber {
-    private int id;
+
     private String name;
     private String email;
-    private String login;
     private String description;
     private String avatarUrl;
 
-    public Githuber(int id, String name, String email, String login, String avatarUrl, String description) {
-        this.id = id;
+  public Githuber() {
+  }
+    public Githuber( String name, String email, String avatarUrl, String description) {
         this.name = name;
         this.email = email;
-        this.login = login;
         this.description = description;
         this.avatarUrl = avatarUrl;
     }
 
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
 
     public String getName() {
         return name;
@@ -41,13 +33,6 @@ public class Githuber {
         this.email = email;
     }
 
-    public String getLogin() {
-        return login;
-    }
-
-    public void setLogin(String login) {
-        this.login = login;
-    }
 
     public String getDescription() {
         return description;
