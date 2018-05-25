@@ -7,31 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a8304f6-35ce-456b-bf1e-88e023c5b6ce" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/TrackServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/DumbGithuberDAO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithubUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithuberDAO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/InMemory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/MemoryGithuberDAO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/ObjectMapperProducer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/GithubersService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/track.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/GitHubTracker_Web_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/GitHubTracker.iml" afterPath="$PROJECT_DIR$/GitHubTracker.iml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/GitHubTracker_Web_exploded/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/GitHubTracker_Web_exploded/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/GitHubTracker_Web_exploded/githubers.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/GithubersServlet.java" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/GithubersServlet.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/web/Navbar.jsp" afterPath="$PROJECT_DIR$/web/Navbar.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/githubers.jsp" afterPath="$PROJECT_DIR$/web/githubers.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/inscription.jsp" afterPath="$PROJECT_DIR$/web/inscription.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#467#468#0" expanded="true" />
                 <element signature="e#494#495#0" expanded="true" />
@@ -99,8 +75,8 @@
       <file leaf-file-name="MemoryGithuberDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/MemoryGithuberDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="442">
+              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,8 +87,8 @@
       <file leaf-file-name="TrackServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/TrackServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="782">
+              <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +99,8 @@
       <file leaf-file-name="GithubUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithubUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="646">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,8 +111,8 @@
       <file leaf-file-name="InMemory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/InMemory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,7 +123,7 @@
       <file leaf-file-name="track.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/track.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
+            <state relative-caret-position="476">
               <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding />
             </state>
@@ -157,7 +133,7 @@
       <file leaf-file-name="GithuberDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithuberDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="238">
               <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -169,8 +145,8 @@
       <file leaf-file-name="DumbGithuberDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/DumbGithuberDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="136">
+              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -179,7 +155,7 @@
       <file leaf-file-name="GithubersServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/GithubersServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
+            <state relative-caret-position="850">
               <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -191,8 +167,8 @@
       <file leaf-file-name="GithubersService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/GithubersService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="476">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#457#458#0" expanded="true" />
@@ -339,11 +315,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Course" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -413,6 +385,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Course" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -737,16 +713,16 @@
       <workItem from="1526470259694" duration="678000" />
       <workItem from="1526974047004" duration="22852000" />
       <workItem from="1527011493900" duration="26000" />
-      <workItem from="1527045476662" duration="7178000" />
+      <workItem from="1527045476662" duration="8053000" />
+      <workItem from="1527078415165" duration="549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108919000" />
+    <option name="totallyTimeSpent" value="110343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="23" width="1457" height="971" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -768,15 +744,14 @@
       <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.63837206" sideWeight="0.4978701" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63837206" sideWeight="0.4978701" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6174112" sideWeight="0.49574015" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11943463" sideWeight="0.6543654" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61627907" sideWeight="0.49574015" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12084806" sideWeight="0.6543654" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16719915" sideWeight="0.34563455" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -785,6 +760,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1158,7 +1134,7 @@
         <state relative-caret-position="374">
           <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1167,37 +1143,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <marker date="1505927400000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1505927400000" expanded="false" signature="149:345" ph="..." />
-            <marker date="1505927400000" expanded="true" signature="547:554" ph="{}" />
-            <marker date="1505927400000" expanded="true" signature="631:724" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="811:987" ph="{...}" />
-            <marker date="1505927400000" expanded="false" signature="1022:1033" ph=" { " />
-            <marker date="1505927400000" expanded="false" signature="1111:1117" ph=" }" />
-            <marker date="1505927400000" expanded="false" signature="1165:1176" ph=" { " />
-            <marker date="1505927400000" expanded="false" signature="1245:1251" ph=" }" />
-            <marker date="1505927400000" expanded="true" signature="1325:1639" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="1770:1903" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="1970:2284" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="2402:2542" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="2661:2802" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="2880:2951" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="3012:5495" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="3362:3590" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="3690:3932" ph="{...}" />
-            <marker date="1505927400000" expanded="false" signature="3959:3974" ph=" { " />
-            <marker date="1505927400000" expanded="false" signature="3985:3995" ph=" }" />
-            <marker date="1505927400000" expanded="true" signature="4079:4163" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="4237:4376" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="4450:4698" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="4734:4897" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="4932:5018" ph="{...}" />
-            <marker date="1505927400000" expanded="true" signature="5057:5238" ph="{...}" />
-            <marker date="1505927400000" expanded="false" signature="5265:5280" ph=" { " />
-            <marker date="1505927400000" expanded="false" signature="5308:5318" ph=" }" />
-            <marker date="1505927400000" expanded="true" signature="5353:5489" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1227,7 +1172,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/track.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
+        <state relative-caret-position="476">
           <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
           <folding />
         </state>
@@ -1235,8 +1180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/InMemory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1245,8 +1190,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/TrackServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="782">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1255,8 +1200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithubUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="646">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1265,8 +1210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/MemoryGithuberDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="442">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1276,7 +1221,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="e#467#468#0" expanded="true" />
             <element signature="e#494#495#0" expanded="true" />
@@ -1300,7 +1245,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/GithubersServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
+        <state relative-caret-position="850">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1310,15 +1255,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/DumbGithuberDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="136">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithuberDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="238">
           <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1328,8 +1273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/GithubersService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="476">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#457#458#0" expanded="true" />

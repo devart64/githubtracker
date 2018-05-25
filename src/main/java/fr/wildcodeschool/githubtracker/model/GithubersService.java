@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 @Dependent
 public class GithubersService {
-    @Inject
+
     private GithuberDAO githuberDAO;
 
     @Inject
