@@ -6,17 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a8304f6-35ce-456b-bf1e-88e023c5b6ce" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/GitHubTracker.iml" afterPath="$PROJECT_DIR$/GitHubTracker.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/GithubersServlet.java" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/controller/GithubersServlet.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/DumbGithuberDAO.java" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/DumbGithuberDAO.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithubUtils.java" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/GithubUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/MemoryGithuberDAO.java" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/MemoryGithuberDAO.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java" />
-      <change beforePath="$PROJECT_DIR$/web/githubers.jsp" afterPath="$PROJECT_DIR$/web/githubers.jsp" />
-    </list>
+    <list default="true" id="0a8304f6-35ce-456b-bf1e-88e023c5b6ce" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Githuber.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Githuber.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="408">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="githubers.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="githubers.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/githubers.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="687">
+              <caret line="46" column="51" lean-forward="false" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -222,8 +212,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/DumbGithuberDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/dao/MemoryGithuberDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java" />
         <option value="$PROJECT_DIR$/web/githubers.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java" />
       </list>
     </option>
   </component>
@@ -704,16 +694,15 @@
       <workItem from="1527236481630" duration="283000" />
       <workItem from="1527256339859" duration="595000" />
       <workItem from="1527391643369" duration="21000" />
-      <workItem from="1527403158559" duration="3972000" />
+      <workItem from="1527403158559" duration="4121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115214000" />
+    <option name="totallyTimeSpent" value="115363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -741,8 +730,8 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6381638" sideWeight="0.4978701" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61627907" sideWeight="0.49574015" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6381638" sideWeight="0.4978701" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61566156" sideWeight="0.49574015" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16080937" sideWeight="0.6543654" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16719915" sideWeight="0.34563455" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
@@ -1207,21 +1196,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java">
+    <entry file="file://$PROJECT_DIR$/web/githubers.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="687">
+          <caret line="46" column="51" lean-forward="false" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/githubers.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/wildcodeschool/githubtracker/model/Githuber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="408">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
