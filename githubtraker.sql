@@ -14,20 +14,22 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 -- -----------------------------------------------------
 -- Schema mydb
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
-USE `mydb` ;
+CREATE SCHEMA IF NOT EXISTS `githubtracker` DEFAULT CHARACTER SET utf8 ;
+USE `githubtracker` ;
 
 -- -----------------------------------------------------
 -- Table `mydb`.`githuber`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`githuber` (
+CREATE TABLE IF NOT EXISTS `githubtracker`.`githuber` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `prenom` VARCHAR(45) NULL,
-  `nom` VARCHAR(45) NULL,
-  `pseudo` VARCHAR(45) NULL,
+  `github_id` INT NOT NULL,
+  `name` VARCHAR(45) NULL,
+  `login` VARCHAR(45) NULL,
   `email` VARCHAR(45) NULL,
-  `description` LONGTEXT NULL,
-  `inscription_date` DATETIME NULL,
+  `url` VARCHAR(45) NULL,
+  `bio` LONGTEXT NULL,
+  `location` VARCHAR(45) NULL,
+  `avatar_url` VARCHAR(45) NULL,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
