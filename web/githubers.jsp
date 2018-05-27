@@ -34,7 +34,7 @@
             <div class="team-leader-box">
                 <div class="team-leader wow fadeInDown delay-03s">
                     <div class="team-leader-shadow"><a href="#"></a></div>
-                    <img class="center-block" src="<c:out value="${githuber.getAvatarUrl()}" />" />
+                    <img class="center-block" src="<c:out value="${githuber.getAvatar_url()}" />" />
                     <ul>
                         <li><a href="#" class="fa-twitter"></a></li>
                         <li><a href="#" class="fa-facebook"></a></li>
@@ -43,9 +43,9 @@
                     </ul>
                 </div>
 
-                <h3 class="wow fadeInDown delay-03s"><c:out value="${githuber.getName()}" /></h3>
-                <span class="wow fadeInDown delay-03s">E-mail: <c:out value="${githuber.getEmail()}" /></span>
-                <p class="wow fadeInDown delay-03s"><c:out value="${githuber.getDescription()}" /></p>
+                <h3><c:out value="${githuber.getName()}" /></h3>
+                <span><c:out value="${githuber.getEmail()}" /></span>
+                <p ><c:out value="${githuber.getBio()}" /></p>
             </div>
             </c:forEach>
         </div><br />

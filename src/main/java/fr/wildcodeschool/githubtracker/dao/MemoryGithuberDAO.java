@@ -33,6 +33,7 @@ public class MemoryGithuberDAO implements GithuberDAO{
             githuberMap.put(githuber.getName(), githuber);
         }
     }
+/*
 
     @PostConstruct
     private void init() {
@@ -41,6 +42,7 @@ public class MemoryGithuberDAO implements GithuberDAO{
             saveGithuber( githubUtils.parseGithuber(login));
         }
     }
+*/
 
 
 

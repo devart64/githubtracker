@@ -12,6 +12,7 @@ import java.net.URL;
 public class GithubUtils {
 @Inject
     private ObjectMapper objectMapper;
+
     public Githuber parseGithuber(String login) {
         String url = "https://api.github.com/users/" + login;
         Githuber githuber = null;
